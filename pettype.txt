@@ -14,7 +14,7 @@ spiritwolf		0	1		1	1	1	strUI6	1	2	wolf
 fenris		0	1		1	1	1	UIFenirsui	1	2	wolf								
 totem		0	1		1	1	1	strUI14	1	3	oaksage								
 vine		0	1		1	1	1	strUI13	1	3	plaguepoppy								
-grizzly		0	1		1	1	1	strUI7	1	1	bear								
+grizzly		0	1		1	1	1	strUI7	1	2	bear								
 shadowwarrior		0	1		1	1	1	UiShadowUI	1	1	shadowassassin								
 assassintrap		0		1															
 pettrap		0		1															
